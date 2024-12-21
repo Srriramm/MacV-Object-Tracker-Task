@@ -21,7 +21,8 @@ This project implements object tracking using YOLOv8 for object detection and De
 - NumPy
 - HTML (for result visualization)
 
-To install the required libraries, use the requirements.txt file
+To install the required libraries, use the below file
+requirements.txt
 
 
 ## Setup
@@ -44,7 +45,7 @@ To install the required libraries, use the requirements.txt file
 To run the object tracking script, use the following command:
 
 ```bash
-python track_objects.py
+python macv_object_tracker.py
 ```
 
 This will process the video specified in the `video_path` variable. The script will display the video with tracked objects and save the output to `output.mp4`.
