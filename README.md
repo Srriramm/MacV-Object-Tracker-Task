@@ -28,7 +28,7 @@ To install the required libraries, use the requirements.txt file
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/object-tracking-yolo-deepsort.git
+    git clone https://github.com/Srriramm/MacV-Object-Tracker-Task.git
     cd object-tracking-yolo-deepsort
     ```
     
