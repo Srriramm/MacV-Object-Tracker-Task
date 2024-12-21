@@ -1,9 +1,4 @@
 # MacV-Object-Tracker-Task
-Here's the updated `README.md` with the addition of visualizing the results in an HTML file along with the output video:
-
----
-
-# Object Tracking with YOLOv8 and DeepSort
 
 This project implements object tracking using YOLOv8 for object detection and DeepSort for tracking, along with a custom trail tracker to visualize object movements over time. The project outputs a video with unique object tracking information, including the object's ID, class, and the duration of its appearance in the video. Additionally, the results have been visualized in an HTML file with the output video.
 
