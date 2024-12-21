@@ -21,7 +21,11 @@ This project implements object tracking using YOLOv8 for object detection and De
 - NumPy
 - HTML (for result visualization)
 
-To install the required libraries, use the requirements.txt file
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Setup
 
