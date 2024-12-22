@@ -40,7 +40,7 @@ pip install -r requirements.txt
    You can download the YOLOv8 model from the official repository:
    [YOLOv8 Models](https://github.com/ultralytics/ultralytics)
 
-3. Ensure that the video file you want to process is available. If you want to use your webcam, replace the `video_path` with `"0"`.
+3. Ensure that the video file you want to process is available.
 
 ## Usage
 
